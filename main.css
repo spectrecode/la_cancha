@@ -1,0 +1,44 @@
+/* Inserta tu CSS aqui */
+div	{
+	background: #8CB27C;
+}
+
+.contenedor	{
+	width: 800px;
+	height: 400px;
+	padding: 20px;
+
+}
+
+.corner	{
+	position: relative;
+	height: 100%;
+	border: 1px solid white;
+}
+
+.arco_izquierdo	{
+	position: absolute;
+	top: 110px;
+	width: 90px;
+	height: 180px;
+	border: 1px solid white;
+}
+
+.arco_derecho	{
+	position: absolute;
+	border: 1px solid white;
+	width: 90px;
+	height: 180px;
+	right: 0px;
+	top: 110px;
+}
+
+.medio	{
+	position: absolute;
+	border-radius: 50%;
+	border: 1px solid white;
+	width: 180px;
+	height: 180px;
+	left: 310px;
+	top: 100px;
+}
