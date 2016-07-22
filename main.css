@@ -42,3 +42,21 @@ div	{
 	left: 310px;
 	top: 100px;
 }
+
+.gol	{
+	position: absolute;
+	left: 80px;
+	top: 120px;
+}
+
+.gol2	{
+	position: absolute;
+	left: 400px;
+	top: 50px;
+}
+
+.gol3	{
+	position: absolute;
+	left: 680px;
+	top: 260px;
+}
