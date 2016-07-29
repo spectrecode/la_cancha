@@ -1,12 +1,9 @@
 /* Inserta tu CSS aqui */
-div	{
-	background: #8CB27C;
-}
-
 .contenedor	{
 	width: 800px;
 	height: 400px;
 	padding: 20px;
+	background: #8CB27C;
 
 }
 
